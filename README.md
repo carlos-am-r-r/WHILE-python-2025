@@ -1,9 +1,12 @@
 # WHILE
-origem
+Origem:
+
 Programa de avaliação prática para a matéria de lógica de programação.
 
-objetivo
+Objetivo:
+
 Exercício de conhecimentos sobre cálculo e algaritmo em python com os comandos de WHILE.
 
-descrições
+Descrições:
+
 O programa consiste em 3 problemas, respectivamente sendo eles, armazenamento, operações e saída de valores digitados, calculadora de média, e calculadora de média condicional
