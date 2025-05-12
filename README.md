@@ -1,6 +1,6 @@
 # WHILE
 Origem:
-
+gay
 Programa de avaliação prática para a matéria de lógica de programação.
 
 Objetivo:
